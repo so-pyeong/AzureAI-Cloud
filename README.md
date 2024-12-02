@@ -38,7 +38,10 @@
 -------------------------------------|---------------------------------------
 ![기획배경3](https://github.com/user-attachments/assets/a968411a-d86b-4dd5-9308-69f2b4f7e1b7) | ![모델소개1](https://github.com/user-attachments/assets/dcb91184-8d42-4e49-869d-75d0bf373ddb)
 ![모델소개2](https://github.com/user-attachments/assets/0e147879-83e0-4532-bf15-efd613abb920) | ![모델소개3](https://github.com/user-attachments/assets/87953df9-bed7-46b8-821e-271188f72fc2)
-![모델소개4](https://github.com/user-attachments/assets/2301739d-dca6-4b90-854f-ec2d8e4bf695) | 🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱
+![모델소개4](https://github.com/user-attachments/assets/2301739d-dca6-4b90-854f-ec2d8e4bf695) | 🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱
+![차후개발방향제안](https://github.com/user-attachments/assets/cc7d17d7-7574-497c-8f48-b32da8c4fbc4) | ![책임인공지능여부](https://github.com/user-attachments/assets/37d71be1-a173-423b-a2e8-05b55c3d14c0)
+
+
 
 
 
