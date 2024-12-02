@@ -33,11 +33,14 @@
 * 목차 : 기획 배경, 모델 소개, 책임있는 인공지능 적용여부, 차후 개발 방향
 
 
-### 📝기획 배경 / 모델 소개
+### 🔍발표 자료
 ![기획배경1](https://github.com/user-attachments/assets/2ade66d8-cc80-4e59-b823-c061585e8e1b) | ![기획배경2](https://github.com/user-attachments/assets/39865371-4c47-4fae-84ae-3b91b5d266a8)
 -------------------------------------|---------------------------------------
 ![기획배경3](https://github.com/user-attachments/assets/a968411a-d86b-4dd5-9308-69f2b4f7e1b7) | ![모델소개1](https://github.com/user-attachments/assets/dcb91184-8d42-4e49-869d-75d0bf373ddb)
---------------------------------------------|------------------------------------------
+![모델소개2](https://github.com/user-attachments/assets/0e147879-83e0-4532-bf15-efd613abb920) | ![모델소개3](https://github.com/user-attachments/assets/87953df9-bed7-46b8-821e-271188f72fc2)
+![모델소개4](https://github.com/user-attachments/assets/2301739d-dca6-4b90-854f-ec2d8e4bf695) | 😄😄😄😄
+
+
 
 
 
